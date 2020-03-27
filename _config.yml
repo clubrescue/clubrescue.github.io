@@ -197,8 +197,8 @@ exclude:
   - package.json
 #  - /docs
   - /node_modules
-  - /screenshots
-  - /test
+#  - /screenshots
+#  - /test
   - /vendor
 
 defaults:
