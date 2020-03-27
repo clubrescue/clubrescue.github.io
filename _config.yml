@@ -20,9 +20,9 @@ text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : Your Site Title
+title   : IT Suite for nonprofits
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  The IT Suite for nonprofits is a set of free (or low cost) collaborating tools for associations. We focus on providing documentation that enables you to get these tools and deploy, manage and use these tools to empower your association. For the part where existing tools do not manage your needs we run a project Club.Rescue to provide a custom and expandable tool that fits in the toolset.
 
 
 ## => Language and Timezone
@@ -35,7 +35,7 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : Your Name
+  name      : Ruud Borghouts
   url       :
   avatar    : # path or url of avatar image (square)
   bio       : I am an amazing person.
@@ -55,7 +55,7 @@ author:
 
 ## => GitHub Repository (if the site is hosted by GitHub)
 ##############################
-repository: user_name/repo_name
+repository: clubrescue/clubrescue.github.io
 repository_tree: master
 
 
@@ -74,7 +74,7 @@ paths:
 excerpt_separator: <!--more-->
 
 ## license
-license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
+license: CC-BY-SA-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 ## TOC
 toc:
@@ -195,7 +195,7 @@ exclude:
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-  - /docs
+#  - /docs
   - /node_modules
   - /screenshots
   - /test
