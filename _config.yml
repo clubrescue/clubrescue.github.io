@@ -4,14 +4,16 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
+
+
+## !USE TEXT THEME
+remote_theme: kitian616/jekyll-text-theme
 #
 # ,--------.      ,--.   ,--. ,--.
 # '--.  .--',---.  \  `.'  /,-'  '-.
 #    |  |  | .-. :  .'    \ '-.  .-'
 #    |  |  \   --. /  .'.  \  |  |
 #    `--'   `----''--'   '--' `--'
-
-
 
 
 ## => Site Settings
@@ -185,7 +187,7 @@ permalink   : date
 
 exclude:
   - CHANGELOG.md
-  - HOW_TO_RELEASE.md
+  - CHECKLIST.md
   - Gemfile
   - Gemfile.lock
   - LICENSE
@@ -195,10 +197,10 @@ exclude:
   - jekyll-text-theme.gemspec
   - package-lock.json
   - package.json
-#  - /docs
+# - /docs
   - /node_modules
-#  - /screenshots
-#  - /test
+  - /screenshots
+  - /test
   - /vendor
 
 defaults:
@@ -223,3 +225,4 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+  - jekyll-remote-theme
