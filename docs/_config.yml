@@ -19,7 +19,7 @@ remote_theme: kitian616/jekyll-text-theme
 text_skin: default # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
 highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : https://clubrescue.github.io
-baseurl : /docs
+baseurl : /
 title   : TeXt Theme
 description: >
   A super customizable Jekyll theme for personal site, team site, blog, project, documentation, etc.
@@ -65,7 +65,7 @@ repository_tree: master
 ##############################
 paths:
   root    : # title link url, "/" (default)
-  home    : /docs # home layout url, "/" (default)
+  home    : # home layout url, "/" (default)
   archive : # "/archive.html" (default)
   rss     : # "/feed.xml" (default)
 
@@ -99,7 +99,7 @@ chart: true # false (default), true
 ## => Paginate
 ##############################
 paginate: 8
-paginate_path: /docs/page:num # don't change this unless for special need
+paginate_path: /page:num # don't change this unless for special need
 
 
 ## => Sources
@@ -296,4 +296,4 @@ plugins:
   - jekyll-sitemap
   - jemoji
 
-data_dir: /docs/_data
+data_dir: /_data
