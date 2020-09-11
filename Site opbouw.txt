@@ -1,6 +1,6 @@
-Over ons	Gen	https://clubrescue.github.io/aboutus
-Documentatie	C.R	https://clubrescue.github.io/crdocs
-ITSuite4NP	ITS	https://clubrescue.github.io/itsuitefornonprofits
+Over ons	Gen	https://clubrescue.github.io/aboutus					LEEG
+Documentatie	C.R	https://clubrescue.github.io/crdocs					ERROR
+ITSuite4NP	ITS	https://clubrescue.github.io/itsuitefornonprofits			ERROR
 Office 365	Gen	https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit
 
 clubrescue.github.io	Landing page met about the project incl. O365, MF, WP and vacancies and a C.R Docs language choise option.
