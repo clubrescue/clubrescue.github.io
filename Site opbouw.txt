@@ -1,0 +1,35 @@
+Over ons	Gen	https://clubrescue.github.io/aboutus
+Documentatie	C.R	https://clubrescue.github.io/crdocs
+ITSuite4NP	ITS	https://clubrescue.github.io/itsuitefornonprofits
+Office 365	Gen	https://www.microsoft.com/microsoft-365/nonprofit/office-365-nonprofit
+
+clubrescue.github.io	Landing page met about the project incl. O365, MF, WP and vacancies and a C.R Docs language choise option.
+crdocs-nl		Clean C.R docs, filenames etc. are englisch, content is dutch.
+crdocs-en		Clean C.R docs, translation of the initial dutch content.
+
+
+ITSuite4NP - DNS instellingen
+		   - IT componenten RACI
+		   - Presentatie IT Suite voor non profits
+		     - Introductie
+			 - HLV
+			 - Product eisen
+			 - Componenten en kostenoverzicht
+Office365  - Werkinstrucite beheer
+		   - Handleiding aanzetten MFA
+		   - Template gebruikers en autorisatieoverzichten > instructie voor opstellen van...
+MachForm   - Werkinstructie beheer
+WordPress  - Werkinstructie beheer
+C.R Dev	   - Presentatie IT Suite voor non profits
+			 - C.R Releases
+			 - C.R Modules
+			 - C.R Generaties
+		   - Privacy vriendelijk gebruik van Sportlink
+		   - Werkinstructie C.R installatie en configuratie
+		   - C.R autorisatie concept
+		   - Wijzigingen beheer database
+		   - Vacatures core en module developers
+
+
+header #02a6f2 MKDocs	text align left
+header #29b6f6 Material	text align center
