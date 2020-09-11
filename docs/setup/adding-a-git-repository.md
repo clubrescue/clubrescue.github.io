@@ -2,7 +2,7 @@
 template: overrides/main.html
 ---
 
-# Adding a git repository test 2
+# Adding a git repository test 3
 
 If your documentation is related to source code, Material for MkDocs provides
 the ability to display information to the project's repository as part of the
