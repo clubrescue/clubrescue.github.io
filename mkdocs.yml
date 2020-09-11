@@ -131,8 +131,8 @@ nav:
   - WordPress:
     - Werkinstructie beheer: wysiwygsite/
   - Club.Rescue: crdocs/
-    #- Englisch: http://clubrescue.github.io/crdocs-en
-    #- Dutch: http://clubrescue.github.io/crdocs-nl
+    - Englisch: https://clubrescue.github.io/crdocs-en
+    - Dutch: https://clubrescue.github.io/crdocs-nl
   - Getting started:
     - Installation: gettingstarted/getting-started.md
     - Creating your site: gettingstarted/creating-your-site.md
