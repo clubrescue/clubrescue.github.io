@@ -36,7 +36,7 @@
     {% endblock %}
     {% block htmltitle %}
       {% if page and page.meta and page.meta.title %}
-        <title>{{ page.meta.title }} - {{ config.site_name }}</title>
+        <title>{{ config.site_name }}</title>
       {% elif page and page.title and not page.is_homepage %}
         <title>{{ page.title | striptags }} - {{ config.site_name }}</title>
       {% else %}
@@ -216,6 +216,7 @@
       </script>
       {% for path in config["extra_javascript"] %}
         <script src="{{ path | url }}"></script>
+		<script>mermaid.initialize({theme: 'base'});</script> <!-- when inline %%{init: {'theme':'neutral'}}%% is not working, good options are neutral or base -->
       {% endfor %}
     {% endblock %}
   </body>
