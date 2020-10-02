@@ -105,31 +105,21 @@ markdown_extensions:
 nav:
   - Home: index.md
   - IT Suite for NP:
-    - Introduction: itsuitefornonprofits/index.md
-    - High level view: itsuitefornonprofits/highlevelview.md
-    - Components: itsuitefornonprofits/components.md
-    - Cost estimate: itsuitefornonprofits/costestimate.md
-  - Collaboration suite:
-    - Suites: collaborationsuite/index.md
-    - Office 365: collaborationsuite/office365.md
-    - End-user instructions:
-      - Turning on MFA (O365): collaborationsuite/office365mfa.md
-      - Group management (O365): collaborationsuite/office365groupmanagement.md
-  - Form editor:
-    - Form editors: formeditor/index.md
-    - MachForm: formeditor/machform.md
-  - Site editor:
-    - Site editors: siteeditor/index.md
-    - WordPress: siteeditor/wordpress.md
+    - Select language: itsuitefornonprofits/index.md
   - Club.Rescue:
-    - Languages: crdocs/index.md
-    - Englisch: https://clubrescue.github.io/crdocs-en
-    - Dutch: https://clubrescue.github.io/crdocs-nl
-    - Tooling: crdocs/tooling.md
+    - Select language: crdocs/index.md
+  - C.R Installation:
+    - Select language: crdocs/installation/index.md
+  - C.R Modules:
+    - Select language: crdocs/modules/index.md
+  - Collaboration suite:
+    - Select language: collaborationsuite/index.md
+  - Form editor:
+    - Select language: formeditor/index.md
+  - Site editor:
+    - Select language: siteeditor/index.md
   - About us:
-    - About: aboutus/index.md
-    - Repositories: https://github.com/clubrescue
-    - Vacancies: aboutus/vacancies.md
+    - Select language: aboutus/index.md
 
 # Google Analytics
 google_analytics:
