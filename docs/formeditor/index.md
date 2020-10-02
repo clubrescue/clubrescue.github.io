@@ -1,19 +1,5 @@
-# Form (WYSIWYG) tooling
+# Documentation languages
 
-| ![Logo MachForm](../assets/images/itsppt/logo_MachForm.png)![Logo Okta](../assets/images/itsppt/logo_okta.png) ||
-| --- | --- |
-| Werkt - getest | - MachForm. |
-| Werkt - niet getest | - OhMyForm.<br />- Orbeon Forms. |
-| Werkt niet - getest | - Geen producten bekend. |
+Please select your preferred language to read the documentation:
 
-- Software eisen;
-    - Huidige features die worden ingezet uit MachForm dienen ook aanwezig te zijn in een eventueel in te zetten alternatief.
-- Taken/kennis eisen IT functionaris;
-    - Installatie en updates van PHP software pakketten op een webserver.
-    - Apache, MariaDB, phpMyAdmin.
-
-## Docs
-
-The ITS4NP currently supports the following forms tooling:  
-
-[MachForm](machform){: .md-button .md-button--primary }
+[Englisch](https://clubrescue.github.io/en/formeditor){: .md-button .md-button--primary } [Dutch](https://clubrescue.github.io/nl/formeditor){: .md-button .md-button--primary }

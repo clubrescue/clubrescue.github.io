@@ -1,6 +1,5 @@
-# C.R Docs
+# Documentation languages
 
-The documentation for C.R is currently being rewritten.  
-Please select the language for the C.R Docs you would like to view:
+Please select your preferred language to read the documentation:
 
-[Englisch](https://clubrescue.github.io/crdocs-en){: .md-button .md-button--primary } [Dutch](https://clubrescue.github.io/crdocs-nl){: .md-button .md-button--primary }
+[Englisch](https://clubrescue.github.io/en/clubrescue){: .md-button .md-button--primary } [Dutch](https://clubrescue.github.io/nl/clubrescue){: .md-button .md-button--primary }
